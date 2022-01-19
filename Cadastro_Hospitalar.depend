@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549338994 source:c:\users\dikpc\documents\codblock\cadastro_hospitalar\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
